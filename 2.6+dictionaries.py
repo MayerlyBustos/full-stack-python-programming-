@@ -31,6 +31,8 @@ books = [{
     'year': 2018
 },
 ]
+print(books)
+print("===========================================================================================================")
 
 # now lets look at something more complex
 # excercise
@@ -49,8 +51,7 @@ bags = {
         'year': 2018
     }
     ],
-    'stationaries': [
-        {
+    'stationaries': [{
             "pencils": 2,
             "ball_pens": 5
         }
